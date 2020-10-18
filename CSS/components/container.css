@@ -1,0 +1,8 @@
+.container {
+	width: 700px;
+	margin: 70px auto;
+}
+
+a : hover {
+	background-color: black;
+}
